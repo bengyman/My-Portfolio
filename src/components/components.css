@@ -183,6 +183,13 @@ section p {
   margin-bottom: 20px; /* Adjust this value as needed */
 }
 
+.project-image {
+  width: 70%;
+  height: auto;
+  margin: 20px 0;
+  border-radius: 8px;
+}
+
 
 .hobby-image {
   display: block;
